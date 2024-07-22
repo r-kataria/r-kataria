@@ -16,6 +16,14 @@ Probabilistic is a cross-language standard for probabilistic function execution,
 ### [SimpliC](https://github.com/r-kataria/SimpliC)
 SimpliC is a simple HTTP web server written in C. Because sometimes, less is more. ⚡️🚀
 
+## 🔍 Explorations
+
+### [Merciful Stalin Sort](https://github.com/r-kataria/MercifulStalinSort)
+Merciful Stalin Sort is an experimental sorting algorithm inspired by the notorious **Stalin Sort**. Instead of discarding out-of-order elements, it retains those in sorted order and recursively sorts the remaining elements. 🧩📶
+
+### [Access Alchemy](https://github.com/r-kataria/AccessAlchemy)
+Access Alchemy explores how obtaining additional visas and travel documents can significantly boost the strength of a passport. By modeling visa relationships as graphs, it helps optimize their global mobility. 🌍✈️
+
 ## 💼 Interests
 
 - **Technology**: I love tinkering with different languages and frameworks. 🖥️💡
