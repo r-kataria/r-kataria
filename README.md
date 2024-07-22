@@ -24,6 +24,14 @@ Merciful Stalin Sort is an experimental sorting algorithm inspired by the notori
 ### [Access Alchemy](https://github.com/r-kataria/AccessAlchemy)
 Access Alchemy explores how obtaining additional visas and travel documents can significantly boost the strength of a passport. By modeling visa relationships as graphs, it helps optimize their global mobility. 🌍✈️
 
+## 🔄 Current Work
+
+### Political Stonks
+Political Stonks examines the correlation between US Presidential General Elections and Primary polling with stock market performance. This analysis includes both index and individual stocks, utilizing data that dates back to the 1960s. 📊🇺🇸
+
+### PySE
+PySE is a Python-based stock market backtesting engine supporting equities, bonds, futures, and options. As an extension, an open-source data archive of historical stock prices and fundamental data is being developed, potentially hosted on IPFS, to enhance analysis and simulations. 📈🗂️
+
 ## 💼 Interests
 
 - **Technology**: I love tinkering with different languages and frameworks. 🖥️💡
