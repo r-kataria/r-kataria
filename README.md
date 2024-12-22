@@ -1,41 +1,44 @@
 # 👋 Hey there! I'm Rishi.
 
-I'm a student at **Trinity College Dublin** with a passion for Technology and Finance 📚💼. When I'm not hitting the books, you'll find me diving into research and working on practical projects — because why settle for ordinary when you can create something extraordinary? 🚀
+**Aspiring Computer Scientist + More!**
+
+I'm a computer science student at Trinity College Dublin, with a focus on technology-driven problem-solving. My interests span crafting novel solutions, exploring the intersections of technology with fields like finance and politics, and conducting research to push boundaries. When I’m not coding, you’ll find me diving into anime, creating playlists, or exploring new cities.
 
 ## 🛠️ My Projects
 
-### [Querius](https://github.com/r-kataria/Querius)
-Querius is a pure Python in-memory SQL engine, developed from scratch. Looking inside SQL? Querius is a Pythonic lens to SQL 🐍🔍
+### 
+[**Querius**](https://github.com/r-kataria/Querius): A pure Python in-memory SQL engine, developed from scratch. Looking inside SQL? Querius is a Pythonic lens to SQL 🐍🔍
 
-### [FaunaDo](https://github.com/r-kataria/FaunaDo)
-FaunaDo is a simple to-do list with real-time synchronization, implemented with FaunaDB and Next.js. Leveraging serverless architecture for scalability and flexibility. ☁️✨
+[**FaunaDo**](https://github.com/r-kataria/FaunaDo) A simple to-do list with real-time synchronization, implemented with FaunaDB and Next.js. Leveraging serverless architecture for scalability and flexibility. ☁️✨
 
-### [Probabilistic](https://github.com/r-kataria/Probabilistic)
-Probabilistic is a cross-language standard for probabilistic function execution, with implementations in [Python](https://github.com/r-kataria/Probabilistic.py) and [C](https://github.com/r-kataria/Probabilistic.c). Adding a touch of randomness to your functions! 🔮🐍
+[**Probabilistic**](https://github.com/r-kataria/Probabilistic): A cross-language standard for probabilistic function execution, with implementations in [Python](https://github.com/r-kataria/Probabilistic.py) and [C](https://github.com/r-kataria/Probabilistic.c). Adding a touch of randomness to your functions! 🔮🐍
 
-### [SimpliC](https://github.com/r-kataria/SimpliC)
-SimpliC is a simple HTTP web server written in C. Because sometimes, less is more. ⚡️🚀
+[**SimpliC**](https://github.com/r-kataria/SimpliC): A simple HTTP web server written in C. Because sometimes, less is more. ⚡️🚀
+
+[**MiniMiner**](https://github.com/r-kataria/MiniMiner): An experiment in mining Bitcoin on MicroPython-enabled devices (like Calculators). 🪙⛏️
+
+[**Lake**](https://github.com/r-kataria/Lake): An adaptive, incremental machine learning data structure with a simple API for real-time data integration and prediction.
+
 
 ## 🔍 Explorations
 
-### [Merciful Stalin Sort](https://github.com/r-kataria/MercifulStalinSort)
-Merciful Stalin Sort is an experimental sorting algorithm inspired by the notorious **Stalin Sort**. Instead of discarding out-of-order elements, it retains those in sorted order and recursively sorts the remaining elements. 🧩📶
+[**Merciful Stalin Sort**](https://github.com/r-kataria/MercifulStalinSort): An experimental sorting algorithm inspired by the notorious **Stalin Sort**. Instead of discarding out-of-order elements, it retains those in sorted order and recursively sorts the remaining elements. 🧩📶
 
-### [Access Alchemy](https://github.com/r-kataria/AccessAlchemy)
-Access Alchemy explores how obtaining additional visas and travel documents can significantly boost the strength of a passport. By modeling visa relationships as graphs, it helps optimize their global mobility. 🌍✈️
+
+[**Access Alchemy**](https://github.com/r-kataria/AccessAlchemy): Exploring how obtaining additional visas and travel documents can significantly boost the strength of a passport. By modeling visa relationships as graphs, it helps optimize their global mobility. 🌍✈️
+
+
+## 📚 From My Coursework
+
+[**CSU22012-Algorithms-and-Data-Structures-II-Notes**](https://github.com/r-kataria/CSU22012-Algorithms-and-Data-Structures-II-Notes)
+
+[**CSU22012-Algorithms-and-Data-Structures-II-Constraint-Programming-Project**](https://github.com/r-kataria/CSU22012-Algorithms-and-Data-Structures-II-Constraint-Programming-Project)
+
 
 ## 🔄 Current Work
 
-### Political Stonks
-Political Stonks examines the correlation between US Presidential General Elections and Primary polling with stock market performance. This analysis includes both index and individual stocks, utilizing data that dates back to the 1960s. 📊🇺🇸
+**Political Stonks** Looking at the correlation between US Presidential General Elections and Primary polling with stock market performance. This analysis includes both index and individual stocks, utilizing data that dates back to the 1960s. 📊🇺🇸
 
-### PySE
-PySE is a Python-based stock market backtesting engine supporting equities, bonds, futures, and options. As an extension, an open-source data archive of historical stock prices and fundamental data is being developed, potentially hosted on IPFS, to enhance analysis and simulations. 📈🗂️
-
-## 💼 Interests
-
-- **Technology**: I love tinkering with different languages and frameworks. 🖥️💡
-- **Finance**: Numbers, markets, and the occasional stock tip. 📈💰
 
 ## 😄 Let's Connect!
 
