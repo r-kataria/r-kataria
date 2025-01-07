@@ -17,7 +17,7 @@ I'm a computer science student at Trinity College Dublin, with a focus on techno
 
 [**MiniMiner**](https://github.com/r-kataria/MiniMiner): An experiment in mining Bitcoin on MicroPython-enabled devices (like Calculators). 🪙⛏️
 
-[**Lake**](https://github.com/r-kataria/Lake): An adaptive, incremental machine learning data structure with a simple API for real-time data integration and prediction.
+[**Lake**](https://github.com/r-kataria/Lake): An adaptive, incremental machine learning data structure with a simple API for real-time data integration and prediction. 💧🧠
 
 
 ## 🔍 Explorations
@@ -30,10 +30,11 @@ I'm a computer science student at Trinity College Dublin, with a focus on techno
 
 ## 📚 From My Coursework
 
-[**CSU22012-Algorithms-and-Data-Structures-II-Notes**](https://github.com/r-kataria/CSU22012-Algorithms-and-Data-Structures-II-Notes)
+[**CSU22012-Algorithms-and-Data-Structures-II-Notes**](https://github.com/r-kataria/CSU22012-Algorithms-and-Data-Structures-II-Notes): Algorithms and data structures, distilled into concise, easy-to-follow notes. 📚✨
 
-[**CSU22012-Algorithms-and-Data-Structures-II-Constraint-Programming-Project**](https://github.com/r-kataria/CSU22012-Algorithms-and-Data-Structures-II-Constraint-Programming-Project)
+[**CSU22012-Algorithms-and-Data-Structures-II-Constraint-Programming-Project**](https://github.com/r-kataria/CSU22012-Algorithms-and-Data-Structures-II-Constraint-Programming-Project): A Java-based constraint solver using backtracking. 🧩⚙️
 
+[**CSU44052-Computer-Graphics-Todhchai**](https://github.com/r-kataria/CSU44052-Computer-Graphics-Todhchai): An OpenGL render envisioning a futuristic Emerald Isle. 🌌🍀
 
 ## 🔄 Current Work
 
