@@ -36,6 +36,8 @@ I'm a computer science student at Trinity College Dublin, with a focus on techno
 
 [**CSU44052-Computer-Graphics-Todhchai**](https://github.com/r-kataria/CSU44052-Computer-Graphics-Todhchai): An OpenGL render envisioning a futuristic Emerald Isle. 🌌🍀
 
+[**CSU44061-Machine-Learning-Music-Transformer**](https://github.com/r-kataria/CSU44061-Machine-Learning-Music-Transformer): A machine learning project that uses the Transformer architecture to generate original music 🎶🤖
+
 ## 🔄 Current Work
 
 **Political Stonks** Looking at the correlation between US Presidential General Elections and Primary polling with stock market performance. This analysis includes both index and individual stocks, utilizing data that dates back to the 1960s. 📊🇺🇸
